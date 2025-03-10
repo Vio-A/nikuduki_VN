@@ -1,2 +1,2 @@
-# nikuzuki_VN
+# nikuduki_VN
 First project using RenPy.
